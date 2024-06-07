@@ -55,7 +55,7 @@ The ToDo List application will allow users to create, read, update, and delete (
 - **Angular**
 - **Nginx**
 
-### Component Repos
+### Component repositories
 | Name |  Link |
 |----------|----------|
 | To-Do-List-Common    | |
@@ -66,3 +66,6 @@ The ToDo List application will allow users to create, read, update, and delete (
 | To-Do-List-Task-Search-Service    | |
 | To-Do-List-Task-Gateway-Service   | |
 
+
+### Component diagram
+![Architecture Diagram](/assets/components.png)
