@@ -1,4 +1,4 @@
-## TO DO List Application Project Overview
+## To Do List Application Project Overview
 
 The ToDo List application will allow users to create, read, update, and delete (CRUD) tasks. It will feature user authentication, synchronization across devices, and notifications.
 
