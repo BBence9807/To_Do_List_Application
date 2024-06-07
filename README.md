@@ -45,3 +45,4 @@ The ToDo List application will allow users to create, read, update, and delete (
 
 
 #### Architecture diagram
+![Architecture Diagram](/assets/microservice_architecture.png)
