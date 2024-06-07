@@ -46,3 +46,23 @@ The ToDo List application will allow users to create, read, update, and delete (
 
 #### Architecture diagram
 ![Architecture Diagram](/assets/microservice_architecture.png)
+
+### Tech Stack
+- **Java 17**
+- **Spring Boot**
+- **Apache Kafka**
+- **PostgreSql**
+- **Angular**
+- **Nginx**
+
+### Component Repos
+| Name |  Link |
+|----------|----------|
+| To-Do-List-Common    | |
+| To-Do-List-Auth-Service    | |
+| To-Do-List-User-Service    | |
+| To-Do-List-Task-Service    | |
+| To-Do-List-Task-Notification-Service    | |
+| To-Do-List-Task-Search-Service    | |
+| To-Do-List-Task-Gateway-Service   | |
+
